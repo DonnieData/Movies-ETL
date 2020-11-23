@@ -11,7 +11,7 @@ The purpose of this project is to create a [refactorable](https://en.wikipedia.o
 
 ## Primary steps & stages of the pipeline 
 
-- <h3>Extract</h3><br>
+- Extract<br>
 This stage involves the initial retreival and reading of data in various formats (csv, json) by using a python enviroment that can interpet the data. 
 ![pipeline_1]()
 
