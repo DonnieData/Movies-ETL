@@ -15,12 +15,12 @@ The purpose of this project is to create a [refactorable](https://en.wikipedia.o
 This stage involves the initial retreival and reading of data in various formats (csv, json) by using a python enviroment that can interpet the data. 
 ![pipeline_1]()
 
-### Transfrom<br>
+- Transfrom<br>
 This stage involves several more granular step including but not limited to: 
   - Cleaning data: assessing missing values and any corrupt data, formating   
   - Transforming: filtering , formatting, clasifying (data type is redefined/changed to better suit analysis interpretation), merging data
 
-- ### Load<br>
+- Load<br>
 this stage involves connecting to a database/server from the python environment and loading the data into the aproprtiat taables/schemas. 
 ![pipeline_4]()
 
