@@ -17,8 +17,8 @@ This stage involves the initial retreival and reading of data in various formats
 
 - <b>Transfrom</b>
 This stage involves several more granular step including but not limited to: 
-  - cleaning data: assessing missing values and any corrupt data, formating   
-  - transforming: filtering , formatting, clasifying (data type is redefined/changed to better suit analysis interpretation), merging data
+  - Cleaning data: assessing missing values and any corrupt data, formating   
+  - Transforming: filtering , formatting, clasifying (data type is redefined/changed to better suit analysis interpretation), merging data
 
 - <b>Load</b>
  - load to relational database 
