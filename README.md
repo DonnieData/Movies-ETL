@@ -22,7 +22,7 @@ This stage involves several more granular step including but not limited to:
   - Cleaning data: assessing missing values and any corrupt data, formating   
   - Transforming: filtering , formatting, clasifying (data type is redefined/changed to better suit analysis interpretation), merging data
   
-  ![pipeline_2](https://github.com/DonnieData/Movies-ETL/blob/main/Resource/image/pipeline_2.png)
+![pipeline_2](https://github.com/DonnieData/Movies-ETL/blob/main/Resource/image/pipeline_2.png)
 
 - <b>Load</b><br>
 this stage involves connecting to a database/server from the python environment and loading the data into the aproprtiat taables/schemas. 
